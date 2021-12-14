@@ -1,0 +1,187 @@
+Elevator door opens at floor 1
+Person 6 enters elevator to go to floor 8
+Person 4 enters elevator to go to floor 3
+Person 2 enters elevator to go to floor 3
+Person 0 enters elevator to go to floor 7
+Person 5 enters elevator to go to floor 7
+Person 3 enters elevator to go to floor 9
+Person 1 enters elevator to go to floor 6
+Elevator door closes
+Elevator door opens at floor 3
+Person 2 leaves elevator
+Person 4 leaves elevator
+Elevator door closes
+Elevator door opens at floor 6
+Person 1 leaves elevator
+Elevator door closes
+Elevator door opens at floor 7
+Person 0 leaves elevator
+Person 5 leaves elevator
+Elevator door closes
+Elevator door opens at floor 8
+Person 6 leaves elevator
+Elevator door closes
+Elevator door opens at floor 9
+Person 3 leaves elevator
+Elevator door closes
+Elevator door opens at floor 1
+Person 7 enters elevator to go to floor 10
+Person 9 enters elevator to go to floor 6
+Person 10 enters elevator to go to floor 6
+Person 12 enters elevator to go to floor 4
+Person 8 enters elevator to go to floor 8
+Person 11 enters elevator to go to floor 5
+Person 13 enters elevator to go to floor 9
+Elevator door closes
+Elevator door opens at floor 4
+Person 12 leaves elevator
+Elevator door closes
+Elevator door opens at floor 5
+Person 11 leaves elevator
+Elevator door closes
+Elevator door opens at floor 6
+Person 9 leaves elevator
+Person 10 leaves elevator
+Elevator door closes
+Elevator door opens at floor 8
+Person 8 leaves elevator
+Elevator door closes
+Elevator door opens at floor 9
+Person 13 leaves elevator
+Elevator door closes
+Elevator door opens at floor 10
+Person 7 leaves elevator
+Elevator door closes
+Elevator door opens at floor 1
+Person 14 enters elevator to go to floor 8
+Person 15 enters elevator to go to floor 5
+Person 16 enters elevator to go to floor 4
+Person 17 enters elevator to go to floor 3
+Person 18 enters elevator to go to floor 7
+Person 20 enters elevator to go to floor 6
+Person 19 enters elevator to go to floor 5
+Elevator door closes
+Elevator door opens at floor 3
+Person 17 leaves elevator
+Elevator door closes
+Elevator door opens at floor 4
+Person 16 leaves elevator
+Elevator door closes
+Elevator door opens at floor 5
+Person 15 leaves elevator
+Person 19 leaves elevator
+Elevator door closes
+Elevator door opens at floor 6
+Person 20 leaves elevator
+Elevator door closes
+Elevator door opens at floor 7
+Person 18 leaves elevator
+Elevator door closes
+Elevator door opens at floor 8
+Person 14 leaves elevator
+Elevator door closes
+Elevator door opens at floor 1
+Person 21 enters elevator to go to floor 7
+Person 22 enters elevator to go to floor 6
+Person 23 enters elevator to go to floor 9
+Person 24 enters elevator to go to floor 3
+Person 25 enters elevator to go to floor 3
+Person 26 enters elevator to go to floor 9
+Person 27 enters elevator to go to floor 10
+Elevator door closes
+Elevator door opens at floor 3
+Person 24 leaves elevator
+Person 25 leaves elevator
+Elevator door closes
+Elevator door opens at floor 6
+Person 22 leaves elevator
+Elevator door closes
+Elevator door opens at floor 7
+Person 21 leaves elevator
+Elevator door closes
+Elevator door opens at floor 9
+Person 23 leaves elevator
+Person 26 leaves elevator
+Elevator door closes
+Elevator door opens at floor 10
+Person 27 leaves elevator
+Elevator door closes
+Elevator door opens at floor 1
+Person 29 enters elevator to go to floor 3
+Person 30 enters elevator to go to floor 4
+Person 31 enters elevator to go to floor 7
+Person 28 enters elevator to go to floor 10
+Person 32 enters elevator to go to floor 7
+Person 33 enters elevator to go to floor 6
+Person 34 enters elevator to go to floor 6
+Elevator door closes
+Elevator door opens at floor 3
+Person 29 leaves elevator
+Elevator door closes
+Elevator door opens at floor 4
+Person 30 leaves elevator
+Elevator door closes
+Elevator door opens at floor 6
+Person 33 leaves elevator
+Person 34 leaves elevator
+Elevator door closes
+Elevator door opens at floor 7
+Person 31 leaves elevator
+Person 32 leaves elevator
+Elevator door closes
+Elevator door opens at floor 10
+Person 28 leaves elevator
+Elevator door closes
+Elevator door opens at floor 1
+Person 35 enters elevator to go to floor 2
+Person 36 enters elevator to go to floor 8
+Person 41 enters elevator to go to floor 9
+Person 37 enters elevator to go to floor 10
+Person 38 enters elevator to go to floor 8
+Person 40 enters elevator to go to floor 2
+Person 39 enters elevator to go to floor 8
+Elevator door closes
+Elevator door opens at floor 2
+Person 35 leaves elevator
+Person 40 leaves elevator
+Elevator door closes
+Elevator door opens at floor 8
+Person 36 leaves elevator
+Person 38 leaves elevator
+Person 39 leaves elevator
+Elevator door closes
+Elevator door opens at floor 9
+Person 41 leaves elevator
+Elevator door closes
+Elevator door opens at floor 10
+Person 37 leaves elevator
+Elevator door closes
+Elevator door opens at floor 1
+Person 42 enters elevator to go to floor 5
+Person 44 enters elevator to go to floor 2
+Person 45 enters elevator to go to floor 4
+Person 43 enters elevator to go to floor 2
+Person 46 enters elevator to go to floor 10
+Person 48 enters elevator to go to floor 7
+Person 47 enters elevator to go to floor 3
+Elevator door closes
+Elevator door opens at floor 2
+Person 44 leaves elevator
+Person 43 leaves elevator
+Elevator door closes
+Elevator door opens at floor 3
+Person 47 leaves elevator
+Elevator door closes
+Elevator door opens at floor 4
+Person 45 leaves elevator
+Elevator door closes
+Elevator door opens at floor 5
+Person 42 leaves elevator
+Elevator door closes
+Elevator door opens at floor 7
+Person 48 leaves elevator
+Elevator door closes
+Elevator door opens at floor 10
+Person 46 leaves elevator
+Elevator door closes
+Simulation Done
